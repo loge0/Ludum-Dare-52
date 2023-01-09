@@ -1198,7 +1198,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 00c92a6d3524c854689bb88a9f089b79, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 5495507edbf6ea2429b7ebf672ab4f10, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
   m_Pitch: 1
@@ -3821,7 +3821,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 852067474}
-  m_LocalRotation: {x: 0.15005247, y: 0.5782397, z: -0.109211646, w: 0.7944784}
+  m_LocalRotation: {x: 0.15005249, y: 0.5782397, z: -0.10921165, w: 0.7944785}
   m_LocalPosition: {x: -42.101074, y: -12.764834, z: 0.22892475}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -7580,7 +7580,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1762901372}
-  m_LocalRotation: {x: 0.15005249, y: 0.5782397, z: -0.10921164, w: 0.7944785}
+  m_LocalRotation: {x: 0.15005249, y: 0.5782397, z: -0.109211646, w: 0.7944784}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -9620,7 +9620,7 @@ MonoBehaviour:
     m_DecelTime: 0.1
     m_InputAxisName: Mouse Y
     m_InputAxisValue: 0
-    m_InvertInput: 0
+    m_InvertInput: 1
     m_MinValue: 0
     m_MaxValue: 1
     m_Wrap: 0
